@@ -1,7 +1,8 @@
 ### Hello! 👋
 
-I work in developer relations at DataStax. I love to help people learn about NoSQL and cloud technologies like Apache Cassandra, Kubernetes, and more. Here are some projects and organizations I'm involved with:
+I'm a software engineer at DataStax. I love to help people learn about NoSQL and cloud technologies like Apache Cassandra, Kubernetes, and more. Here are some projects and organizations I'm involved with:
 
+- [Stargate](https://stargate.io) | [GitHub](https://github.com/stargate)
 - [K8ssandra](https://k8ssandra.io) | [GitHub](https://github.com/k8ssandra)
 - [Apache Cassandra](https://cassandra.apache.org)
 - [Data on Kubernetes Community](https://dok.community)
